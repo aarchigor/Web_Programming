@@ -4,7 +4,7 @@
     <title> Registration Page </title>
 </head>
 <style>
-input{
+input,textarea,select{
 	  border-color: red;
 }
 
@@ -104,12 +104,6 @@ input{
 </table>
 </body>
 </html>
-
-
-
-
-
-
 
 
 <?php
